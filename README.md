@@ -1,3 +1,15 @@
+The Presents-Gift App
+
+I have used .filter and .map methods to create that React App.
+
+Website: 
+
+
+
+![Presents list](https://github.com/KaSofi/Presents_list/assets/103929930/733219d4-72a6-4cd6-85ce-73e30dd8116d)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
